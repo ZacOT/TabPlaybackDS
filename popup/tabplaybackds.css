@@ -1,0 +1,71 @@
+html,
+body {
+    width: 200px;
+    font-family: "Raleway", sans-serif;
+    background-color: rgb(20, 20, 20);
+}
+
+.topnav {
+    margin: 10% auto;
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.p{
+    font-size: 5;
+}
+.error{
+    color: rgb(129, 0, 0);
+}
+
+.note{
+    margin: 10% auto;
+    font-size: 12px;
+    padding: 5px;
+    background-color: grey;
+}
+.error-content{
+    margin: 10% auto;
+    font-size: 12px;
+    padding: 5px;
+    background-color: plum;
+}
+
+.hidden {
+    display: none;
+}
+
+.tr {
+    font-size: 5;
+}
+
+.button {
+    margin: 10% auto;
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.selectpd:hover {
+    background-color: #CFF2F2;
+}
+
+.selectpd {
+    background-color: #E5F2F2;
+}
+
+.resetpd {
+    background-color: #ff2a2a;
+}
+
+.resetpd:hover {
+    background-color: #750000;
+}
+
+.content {
+    background-color: #ddd;
+    padding: 10px;
+}
