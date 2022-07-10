@@ -16,10 +16,9 @@
     ],
 
     "browser_action": {
-        "default_icon": "icons/tabplaybackds-24.png.png",
+        "default_icon": "icons/tabplaybackds-24.png",
         "default_title": "Tab Playback DS",
-        "default_popup": "popup/popup.html"
+        "default_popup": "popup/tabplaybackds.html"
       }
-
   }
   
